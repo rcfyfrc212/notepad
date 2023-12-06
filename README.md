@@ -1,3 +1,16 @@
+# description
+
+Terminal notepad 
+
+Functionality:
+  add note
+  list notes
+  read note
+  search note by content match
+  delete note
+
+Database: sqlite3
+
 # platform
 
 Windows 10-11
